@@ -1,68 +1,36 @@
-ÈçºÎÔÚ Ubuntu 20.04 ÉÏ°²×° Visual Studio Code
-Ñ©ÃÎ¿Æ¼¼
-Ñ©ÃÎ¿Æ¼¼
-https://www.itcoder.tech/
+åœ¨ Ubuntu 20.04 ä¸Šå®‰è£… Visual Studio Code
 
-±¾ÎÄ×îÏÈ·¢²¼ÔÚ£º
-ÈçºÎÔÚ Ubuntu 20.04 ÉÏ°²×° Visual Studio Code?
-www.itcoder.tech/posts/how-to-install-visual-studio-code-on-ubuntu-20-04/
+ä¸€ã€ä½œä¸ºä¸€ä¸ª Snap è½¯ä»¶åŒ…å®‰è£… Visual Studio Code
 
-Visual Studio Code ÊÇÒ»¸öÓÉÎ¢Èí¿ª·¢µÄÇ¿´óµÄ¿ªÔ´´úÂë±à¼­Æ÷¡£Ëü°üº¬ÄÚ½¨µÄµ÷ÊÔÖ§³Ö£¬Ç¶ÈëµÄ Git °æ±¾¿ØÖÆ£¬Óï·¨¸ßÁÁ£¬´úÂë×Ô¶¯Íê³É£¬¼¯³ÉÖÕ¶Ë£¬´úÂëÖØ¹¹ÒÔ¼°´úÂëÆ¬¶Î¹¦ÄÜ¡£
-
-Visual Studio Code ÊÇ¿çÆ½Ì¨µÄ£¬ÔÚ Windows, Linux, ºÍ macOS ÉÏ¿ÉÓÃ¡£
-
-ÕâÆªÖ¸ÄÏÏÔÊ¾ÁËÁ½ÖÖÔÚ Ubuntu 20.04 ÉÏ°²×° Visual Studio Code µÄ·½Ê½¡£ VS Code ¿ÉÒÔÍ¨¹ı Snapcraft ÉÌµê»òÕßÎ¢ÈíÔ´²Ö¿âÖĞµÄÒ»¸ö deb Èí¼ş°üÀ´°²×°¡£
-
-Ñ¡Ôñ×îÊÊºÏÄãµÄ»·¾³µÄ°²×°·½Ê½¡£
-Ò»¡¢×÷ÎªÒ»¸ö Snap Èí¼ş°ü°²×° Visual Studio Code
-
-Visual Studio Code snap Èí¼ş°üÓÉÎ¢ÈíÀ´½øĞĞ·Ö·¢ºÍÎ¬»¤¡£
-
-Snaps ÊÇÒ»ÖÖ×Ô°üº¬µÄÈí¼ş°ü£¬Ëü°üº¬ĞèÒªÔËĞĞÕâ¸öÓ¦ÓÃËùÓĞµÄÒÀÀµ¡£ Snap Èí¼ş°üÈİÒ×Éı¼¶£¬²¢ÇÒ·Ç³£°²È«¡£ºÍ±ê×¼µÄ deb Èí¼ş°ü²»Í¬£¬snaps ĞèÒªÕ¼ÓÃ¸ü´óµÄ´ÅÅÌ¿Õ¼ä£¬ºÍ ¸ü³¤µÄÓ¦ÓÃÆô¶¯Ê±¼ä¡£
-
-Snap Èí¼ş°ü¿ÉÒÔÍ¨¹ıÃüÁîĞĞ»òÕß Ubuntu Èí¼şÓ¦ÓÃÀ´°²×°¡£
-
-ÏëÒª°²×° VS Code snap°æ£¬´ò¿ªÄãµÄÖÕ¶Ë(Ctrl+Alt+T)²¢ÇÒÔËĞĞÏÂÃæµÄÃüÁî£º
+æƒ³è¦å®‰è£… VS Code snapç‰ˆï¼Œæ‰“å¼€ä½ çš„ç»ˆç«¯(Ctrl+Alt+T)å¹¶ä¸”è¿è¡Œä¸‹é¢çš„å‘½ä»¤ï¼š
 
 sudo snap install --classic code
 
-¾ÍÕâĞ©¡£Visual Studio Code ÒÑ¾­ÔÚÄãµÄ Ubuntu »úÆ÷ÉÏ°²×°ºÃÁË£¬Äã¿ÉÒÔ¿ªÊ¼Ê¹ÓÃËüÁË¡£
+å°±è¿™äº›ã€‚Visual Studio Code å·²ç»åœ¨ä½ çš„ Ubuntu æœºå™¨ä¸Šå®‰è£…å¥½äº†ï¼Œä½ å¯ä»¥å¼€å§‹ä½¿ç”¨å®ƒäº†ã€‚
 
-Èç¹ûÄãÏ²»¶Ê¹ÓÃ GUI Í¼ĞÎ½çÃæ£¬´ò¿ª Ubuntu Èí¼şÖĞĞÄ£¬²¢ÇÒËÑË÷¡°Visual Studio Code¡±,È»ºó°²×°Ó¦ÓÃ£º
+äºŒã€ä½¿ç”¨ apt å®‰è£… Visual Studio Code
 
-²»¹ÜºÎÊ±£¬µ±ĞÂ°æ±¾·¢²¼Ê±£¬Visual Studio Code Èí¼ş°ü¶¼»áÔÚºóÌ¨±»×Ô¶¯Éı¼¶¡£
-¶ş¡¢Ê¹ÓÃ apt °²×° Visual Studio Code
+Visual Studio Code åœ¨å®˜æ–¹çš„å¾®è½¯ Apt æºä»“åº“ä¸­å¯ç”¨ã€‚æƒ³è¦å®‰è£…å®ƒï¼ŒæŒ‰ç…§ä¸‹é¢çš„æ­¥éª¤æ¥ï¼š
 
-Visual Studio Code ÔÚ¹Ù·½µÄÎ¢Èí Apt Ô´²Ö¿âÖĞ¿ÉÓÃ¡£ÏëÒª°²×°Ëü£¬°´ÕÕÏÂÃæµÄ²½ÖèÀ´£º
-
-01.ÒÔ sudo ÓÃ»§Éí·İÔËĞĞÏÂÃæµÄÃüÁî£¬¸üĞÂÈí¼ş°üË÷Òı£¬²¢ÇÒ°²×°ÒÀÀµÈí¼ş£º
+1.ä»¥ sudo ç”¨æˆ·èº«ä»½è¿è¡Œä¸‹é¢çš„å‘½ä»¤ï¼Œæ›´æ–°è½¯ä»¶åŒ…ç´¢å¼•ï¼Œå¹¶ä¸”å®‰è£…ä¾èµ–è½¯ä»¶ï¼š
 
 sudo apt update
 sudo apt install software-properties-common apt-transport-https wget
 
-02.Ê¹ÓÃ wget ÃüÁî²åÈë Microsoft GPG key £º
+2.ä½¿ç”¨ wget å‘½ä»¤æ’å…¥ Microsoft GPG key ï¼š
 
 wget -q https://packages.microsoft.com/keys/microsoft.asc -O- | sudo apt-key add -
 
-ÆôÓÃ Visual Studio Code Ô´²Ö¿â£¬ÊäÈë£º
+å¯ç”¨ Visual Studio Code æºä»“åº“ï¼Œè¾“å…¥ï¼š
 
 sudo add-apt-repository "deb [arch=amd64] https://packages.microsoft.com/repos/vscode stable main"
 
-03.Ò»µ© apt Èí¼şÔ´±»ÆôÓÃ£¬°²×° Visual Studio Code Èí¼ş°ü£º
+3.ä¸€æ—¦ apt è½¯ä»¶æºè¢«å¯ç”¨ï¼Œå®‰è£… Visual Studio Code è½¯ä»¶åŒ…ï¼š
 
 sudo apt install code
 
-µ±Ò»¸öĞÂ°æ±¾±»·¢²¼Ê±£¬Äã¿ÉÒÔÍ¨¹ıÄãµÄ×ÀÃæ±ê×¼Èí¼ş¹¤¾ß£¬»òÕßÔÚÄãµÄÖÕ¶ËÔËĞĞÃüÁî£¬À´Éı¼¶ Visual Studio Code Èí¼ş°ü£º
+å½“ä¸€ä¸ªæ–°ç‰ˆæœ¬è¢«å‘å¸ƒæ—¶ï¼Œä½ å¯ä»¥é€šè¿‡ä½ çš„æ¡Œé¢æ ‡å‡†è½¯ä»¶å·¥å…·ï¼Œæˆ–è€…åœ¨ä½ çš„ç»ˆç«¯è¿è¡Œå‘½ä»¤ï¼Œæ¥å‡çº§ Visual Studio Code è½¯ä»¶åŒ…ï¼š
 
 sudo apt update
 sudo apt upgrade
 
-Èı¡¢Æô¶¯ Visual Studio Code
-
-ÔÚ Activities ËÑË÷À¸ÊäÈë ¡°Visual Studio Code¡±£¬²¢ÇÒµã»÷Í¼±ê£¬Æô¶¯Ó¦ÓÃ¡£
-
-µ±ÄãµÚÒ»´ÎÆô¶¯ VS Code Ê±£¬Ò»¸öÀàËÆÏÂÃæµÄ´°¿ÚÓ¦¸Ã»á³öÏÖ£º
-
-Äã¿ÉÒÔ¿ªÊ¼°²×°²å¼ş£¬²¢ÇÒ¸ù¾İÄãµÄÏ²ºÃÅäÖÃ VS Code ÁË¡£
-
-VS Code Ò²¿ÉÒÔÍ¨¹ıÔÚÖÕ¶ËÃüÁîĞĞÊäÈëcode½øĞĞÆô¶¯¡£
