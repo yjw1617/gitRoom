@@ -1,8 +1,14 @@
 git config --global user.email "1617324537@qq.com"
 git config --global user.name "yjw"
+
+git log//查看提交日志
+
 git checkout dev01//切换分支
 git branch//查看分支
-git branch kk//创建kk分支
+git branch kk//创建kk分支kk
 
-连猴子都懂的Git命令  nihao
-jj
+git merge dev01//合并分支
+git branch -d dev02//删除分支dev02
+git remote add origin git@github.com:yjw1617/gitRoom.git //告诉本地仓库对应的远程仓库是git@github.com:yjw1617/gitRoom.git
+git remote//查看远程仓库是否添加
+git push origin master//将本地分支master提交到origin远端
