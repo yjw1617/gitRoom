@@ -1,0 +1,4 @@
+git config --global user.email "1617324537@qq.com"
+git config --global user.name "yjw"
+连猴子都懂的Git命令  nihao
+jj
