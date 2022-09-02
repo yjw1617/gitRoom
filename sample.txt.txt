@@ -1,4 +1,8 @@
 git config --global user.email "1617324537@qq.com"
 git config --global user.name "yjw"
+git checkout dev01//切换分支
+git branch//查看分支
+git branch kk//创建kk分支
+
 连猴子都懂的Git命令  nihao
 jj
