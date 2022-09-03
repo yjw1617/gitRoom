@@ -13,4 +13,4 @@ git remote add origin git@github.com:yjw1617/gitRoom.git //告诉本地仓库对
 git remote//查看远程仓库是否添加
 git push origin master//将本地分支master提交到origin远端
 
-test
+git clone -b develop XXX //git拉取develop分支的we文件
