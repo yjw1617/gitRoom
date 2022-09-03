@@ -14,3 +14,6 @@ git remote//查看远程仓库是否添加
 git push origin master//将本地分支master提交到origin远端
 
 git clone -b develop XXX //git拉取develop分支的we文件
+
+git remote -v//查看远程仓库地址
+//这是一个测试用例
